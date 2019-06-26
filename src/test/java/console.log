@@ -100,3 +100,33 @@ Session ID: 327d14981542b0f07efcec5e9bca6079
 2019-06-25 23:33:07 INFO  BasePage:342 - String India is send to element with xpath: //input[@placeholder='Search']
 2019-06-25 23:33:07 INFO  BasePage:113 - Driver waits explicitly until the element with xpath: //input[@placeholder='Search'] is present
 2019-06-25 23:33:09 INFO  BasePage:211 - Url https://magazine.trivago.com/ is closed
+2019-06-26 14:01:26 INFO  BasePage:320 - The Current Window title is trivago Magazine
+2019-06-26 14:01:28 INFO  BasePage:105 - Driver waits explicitly until the element with xpath: //div[@class='search-icon'] is visible
+2019-06-26 14:01:28 INFO  BasePage:109 - Driver waits explicitly until the element with xpath: //div[@class='search-icon'] is clickable
+2019-06-26 14:01:29 INFO  BasePage:141 - Click is performed on element with xpath: //div[@class='search-icon']
+2019-06-26 14:01:29 INFO  BasePage:105 - Driver waits explicitly until the element with xpath: //input[@placeholder='Search'] is visible
+2019-06-26 14:01:29 INFO  BasePage:109 - Driver waits explicitly until the element with xpath: //input[@placeholder='Search'] is clickable
+2019-06-26 14:01:29 INFO  BasePage:141 - Click is performed on element with xpath: //input[@placeholder='Search']
+2019-06-26 14:01:30 INFO  BasePage:342 - String India is send to element with xpath: //input[@placeholder='Search']
+2019-06-26 14:01:30 INFO  BasePage:113 - Driver waits explicitly until the element with xpath: //input[@placeholder='Search'] is present
+2019-06-26 14:01:31 INFO  BasePage:211 - Url https://magazine.trivago.com/ is closed
+2019-06-26 14:26:22 INFO  BasePage:320 - The Current Window title is trivago Magazine
+2019-06-26 14:26:24 INFO  BasePage:105 - Driver waits explicitly until the element with xpath: //div[@class='search-icon'] is visible
+2019-06-26 14:26:24 INFO  BasePage:109 - Driver waits explicitly until the element with xpath: //div[@class='search-icon'] is clickable
+2019-06-26 14:26:25 INFO  BasePage:141 - Click is performed on element with xpath: //div[@class='search-icon']
+2019-06-26 14:26:25 INFO  BasePage:105 - Driver waits explicitly until the element with xpath: //input[@placeholder='Search'] is visible
+2019-06-26 14:26:25 INFO  BasePage:109 - Driver waits explicitly until the element with xpath: //input[@placeholder='Search'] is clickable
+2019-06-26 14:26:25 INFO  BasePage:141 - Click is performed on element with xpath: //input[@placeholder='Search']
+2019-06-26 14:26:26 INFO  BasePage:342 - String India is send to element with xpath: //input[@placeholder='Search']
+2019-06-26 14:26:26 INFO  BasePage:113 - Driver waits explicitly until the element with xpath: //input[@placeholder='Search'] is present
+2019-06-26 14:26:27 INFO  BasePage:211 - Url https://magazine.trivago.com/ is closed
+2019-06-26 14:29:14 INFO  BasePage:320 - The Current Window title is trivago Magazine
+2019-06-26 14:29:16 INFO  BasePage:105 - Driver waits explicitly until the element with xpath: //div[@class='search-icon'] is visible
+2019-06-26 14:29:16 INFO  BasePage:109 - Driver waits explicitly until the element with xpath: //div[@class='search-icon'] is clickable
+2019-06-26 14:29:17 INFO  BasePage:141 - Click is performed on element with xpath: //div[@class='search-icon']
+2019-06-26 14:29:17 INFO  BasePage:105 - Driver waits explicitly until the element with xpath: //input[@placeholder='Search'] is visible
+2019-06-26 14:29:17 INFO  BasePage:109 - Driver waits explicitly until the element with xpath: //input[@placeholder='Search'] is clickable
+2019-06-26 14:29:17 INFO  BasePage:141 - Click is performed on element with xpath: //input[@placeholder='Search']
+2019-06-26 14:29:18 INFO  BasePage:342 - String India is send to element with xpath: //input[@placeholder='Search']
+2019-06-26 14:29:18 INFO  BasePage:113 - Driver waits explicitly until the element with xpath: //input[@placeholder='Search'] is present
+2019-06-26 14:29:19 INFO  BasePage:211 - Url https://magazine.trivago.com/ is closed

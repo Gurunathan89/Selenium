@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="com.sample.cucumber" />
+        <module name="comsamplecucumber" />
+        <module name="SeleniumCucumber" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.sample.cucumber" target="1.8" />
+      <module name="comsamplecucumber" target="1.8" />
+      <module name="SeleniumCucumber" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SeleniumCucumber" options="-Werror" />
+      <module name="com.sample.cucumber" options="-Werror" />
+      <module name="comsamplecucumber" options="-Werror" />
+    </option>
+  </component>
+</project>
